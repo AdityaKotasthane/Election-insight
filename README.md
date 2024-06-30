@@ -3,6 +3,12 @@ This repository contains the code and visualizations created for analyzing the r
 
 Tools and Libraries Used
 Python: Programming language used for data scraping and analysis.
+
+
 Jupyter Notebook: Interactive environment for running Python code and visualizing results.
+
+
 Beautiful Soup: Python library for parsing HTML and XML documents, used for web scraping.
+
+
 Matplotlib: Python 2D plotting library for creating static, animated, and interactive visualizations.
