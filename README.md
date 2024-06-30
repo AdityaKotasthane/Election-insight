@@ -1,7 +1,9 @@
 # Election-insight
 This repository contains the code and visualizations created for analyzing the results of the Lok Sabha Elections held in 2024. The project focuses on extracting relevant data from the official government website, processing it, and generating insightful visualizations to understand various aspects of the election results.
 
-Tools and Libraries Used
+# Tools and Libraries Used
+
+
 Python: Programming language used for data scraping and analysis.
 
 
